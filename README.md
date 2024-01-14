@@ -6,7 +6,7 @@ Tenho experiência com Java, Banco de dados, SQL, Python, Análise de Dados, Vis
 
 ## Skills
 
-Java, Python, Javascript, MySQL, HTML, CSS, C/C++, Git, Github, Banco de dados, SQL
+Java, Python, Javascript, MySQL, HTML, CSS, C/C++, Git, Github, Banco de dados, SQL,
 Pandas, polars, PowerBI, Streamlit
 
 <br/>
