@@ -1,13 +1,18 @@
 # Hi, how are you? 👋
 
-Sou Ana Carolina, estudante de ciência da computação, apaixonada por tecnologia. Atualmente me dedicando aos estudos de ciência de dados e desenvolvimento back-end.
+🎓 Desenvolvedora de Software | Entusiasta em Inteligência Artificial e Ciência de Dados | Resolvo problemas e encontro soluções com tecnologia
 
-Tenho experiência com Java, Banco de dados, SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. Realizo projetos que me ajudam a desenvolver habilidades importantes como criatividade, comunicação, capacidade analítica e solução de problemas.
+Apaixonada por tecnologia e inovação, estou sempre em busca de novos conhecimentos e maneiras de aprimorar minhas habilidades. Durante minha formação, participei de programas e projetos de pesquisa, desenvolvendo aplicações acadêmicas e de robótica com Java. Também trabalhei com Javascript e banco de dados, o que me deu uma experiência prática para resolver desafios técnicos de forma eficaz.
+
+Recentemente, concluí o programa Residência em TIC 36, uma capacitação intensiva que uniu tecnologia, empreendedorismo e práticas de mercado. Participei de projetos reais aplicando Ciência de Dados, visualização de dados, Machine Learning e Redes Neurais, gerando insights estratégicos e soluções inovadoras.
+
+
+📈 Pronta para contribuir com equipes inovadoras e orientadas a resultados!
 
 ## Skills
 
-Java, Python, Javascript, MySQL, HTML, CSS, C/C++, Git, Github, Banco de dados, SQL,
-Pandas, polars, PowerBI, Streamlit
+Java, Python, JavaScript, SQL, C#, C/C++, Git, GitHub, Banco de Dados, .NET, Node.js, Angular
+Pandas, Polars, PowerBI, Streamlit, Machine Learning, Redes Neurais
 
 <br/>
 
