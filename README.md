@@ -1,58 +1,72 @@
 # Hi, how are you? 👋
 
-🎓 Desenvolvedora de Software | Entusiasta em Inteligência Artificial e Ciência de Dados | Resolvo problemas e encontro soluções com tecnologia
 
-Apaixonada por tecnologia e inovação, estou sempre em busca de novos conhecimentos e maneiras de aprimorar minhas habilidades. Durante minha formação, participei de programas e projetos de pesquisa, desenvolvendo aplicações acadêmicas e de robótica com Java. Também trabalhei com Javascript e banco de dados, o que me deu uma experiência prática para resolver desafios técnicos de forma eficaz.
+Atuo com dados e tecnologia. Tenho experiência prática em análise de dados, machine learning e desenvolvimento de software, com passagem por plataformas EdTech internacionais, programas federais de ensino e formação intensiva em Ciência de Dados e IA.
 
-Recentemente, concluí o programa Residência em TIC 36, uma capacitação intensiva que uniu tecnologia, empreendedorismo e práticas de mercado. Participei de projetos reais aplicando Ciência de Dados, visualização de dados, Machine Learning e Redes Neurais, gerando insights estratégicos e soluções inovadoras.
+---
 
+## 🛠️ Tecnologias
 
-📈 Pronta para contribuir com equipes inovadoras e orientadas a resultados!
+**Dados & ML**
 
-## Skills
+![Python](https://skillicons.dev/icons?i=python)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![sklearn](https://skillicons.dev/icons?i=sklearn)
 
-Java, Python, JavaScript, SQL, C#, C/C++, Git, GitHub, Banco de Dados, .NET, Node.js, Angular
-Pandas, Polars, PowerBI, Streamlit, Machine Learning, Redes Neurais
+**Visualização & BI**
 
-<br/>
+![Streamlit](https://skillicons.dev/icons?i=streamlit)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-</div>
+**Banco de Dados**
 
-<br/>
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+**Desenvolvimento**
+
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+
+**Outros**
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![WordPress](https://skillicons.dev/icons?i=wordpress)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annacarolss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annacarolss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annacarolss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annacarolss&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
 
-<br/><br/>
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🎓 Formação & Experiência
 
-<br/><br/>
+- 💼 Analista de Customer Success - plataforma EAD internacional (Brasil + África Lusófona)
+- 🧪 Residência em TIC 36 (CEPEDI) - Ciência de Dados e IA
+- 🏫 PIBID & Residência Pedagógica (MEC/CAPES) - ensino de BD, SQL e programação
 
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anna%20Carol-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anacarolss)
+[![GitHub](https://img.shields.io/badge/GitHub-annacarolss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annacarolss)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anac.codess@gmail.com)
